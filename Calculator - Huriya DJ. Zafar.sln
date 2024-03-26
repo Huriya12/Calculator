@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator - Huriya DJ. Zafar", "Calculator - Huriya DJ. Zafar\Calculator - Huriya DJ. Zafar.csproj", "{F950A54E-104D-47A9-BFCB-DBE994EFC30F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F950A54E-104D-47A9-BFCB-DBE994EFC30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F950A54E-104D-47A9-BFCB-DBE994EFC30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F950A54E-104D-47A9-BFCB-DBE994EFC30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F950A54E-104D-47A9-BFCB-DBE994EFC30F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C8F3CA1-E26B-4BF7-B94F-7DB27BAEACF9}
+	EndGlobalSection
+EndGlobal
